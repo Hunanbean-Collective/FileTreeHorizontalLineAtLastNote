@@ -6,3 +6,5 @@ It is hidden if folder is collapsed.
 
 Install this in the same way you would install any other css snippet for global use.
 generally, by copying it to the `x:\yourrepository\.obsidian\snippets` folder
+
+Credit to CGPT
